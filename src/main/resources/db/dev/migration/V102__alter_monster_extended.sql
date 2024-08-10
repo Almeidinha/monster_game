@@ -1,0 +1,2 @@
+ALTER TABLE "monster"
+ADD COLUMN "name" VARCHAR(255)
